@@ -4,8 +4,8 @@ import numpy as np
 import re
 
 # Paths to your datasets (adjust accordingly)
-VAHAN_MAKER_CSV_YEARLY = r"C:\\Users\\shiva\\OneDrive\\Desktop\\ffinal.csv"
-VAHAN_MONTHLY_CSV = r"C:\\Users\\shiva\\OneDrive\\Desktop\\month.csv"
+VAHAN_MAKER_CSV_YEARLY = r"data/ffinal.csv"
+VAHAN_MONTHLY_CSV = r"data/month.csv"
 
 CANON = {
     "date": "date",
